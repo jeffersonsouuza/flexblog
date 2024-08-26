@@ -17,7 +17,11 @@
 
 Para visualizar o projeto, siga os passos abaixo:
 
-1. Clone o repositório para sua máquina local:
+1. Acesse através da url:
+
+   https://jeffersonsouuza.github.io/flexblog/
+   
+3. Clone o repositório para sua máquina local:
 
    ```bash
    git clone https://github.com/jeffersonsouuza/flexblog.git
