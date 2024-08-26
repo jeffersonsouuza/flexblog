@@ -1,0 +1,22 @@
+.superinfo-bg {
+  background: #122ab2;
+  color: #ffffff;
+}
+
+.superinfo {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  max-width: 960px;
+  margin: 0 auto;
+  padding-top: 10px;
+}
+
+.superinfo-bg a {
+  color: #ffffff;
+}
+
+.superinfo a,
+.superinfo p {
+  margin: 0 10px 10px 10px;
+}
