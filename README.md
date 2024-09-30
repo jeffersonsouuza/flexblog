@@ -1,6 +1,6 @@
 # Flexblog
 
-**Flexblog** é um projeto de estudo desenvolvido durante o curso de CSS Flexbox da Origamid. O objetivo deste projeto é praticar e aplicar os conceitos aprendidos sobre o layout Flexbox para criar uma estrutura moderna e responsiva.
+**Flexblog** é um projeto de estudo. O objetivo deste projeto é praticar e aplicar os conceitos aprendidos sobre o layout Flexbox para criar uma estrutura moderna e responsiva.
 
 ## Tecnologias Utilizadas
 
